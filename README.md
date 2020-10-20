@@ -22,6 +22,7 @@ As mentioned, the dataset itself contains 43 types of traffic signs that are com
 	<img src="./images/num_class_file_per_directory_sorted.png" alt="my alt text"/>
 </figure>
 <div align="center"><b>Figure 1</b>: Distribution of Traffic Signs for all Classes </div>
+<br>
 
 As can be seen, the dataset itself is imbalanced. To start, I chose the first 5 classes in terms of the number of observations (images) which are classes 1, 2, 12, 13 and 38, respectively as a first test. These classes are nearly balanced with over 2,000 images each. Figure 2 below shows the traffic signs that are being classified.
 
