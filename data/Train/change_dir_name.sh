@@ -1,0 +1,10 @@
+mv ./data/Train/0 ./data/Train/00
+mv ./data/Train/1 ./data/Train/01
+mv ./data/Train/2 ./data/Train/02
+mv ./data/Train/3 ./data/Train/03
+mv ./data/Train/4 ./data/Train/04
+mv ./data/Train/5 ./data/Train/05
+mv ./data/Train/6 ./data/Train/06
+mv ./data/Train/7 ./data/Train/07
+mv ./data/Train/8 ./data/Train/08
+mv ./data/Train/9 ./data/Train/09
