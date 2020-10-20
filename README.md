@@ -35,7 +35,7 @@ As can be seen, the dataset itself is imbalanced. To start, I chose the first 5 
 After training and validating the 5 class dataset, an accuracy of over 99% was achieved! Figure 3 below shows the confusion matrix for the 5-class prediction.
 
 <figure>
-	<img src="./images/confusion_matrix_5_classes.png" alt="my alt text"/>
+	<img src="./images/confusion_matrix_5_classes.png" alt="my alt text" class="center">
 </figure>
 <div align="center"><b>Figure 3</b>: Confusion Matrix for 5 Class Prediction</div>
 <br>
